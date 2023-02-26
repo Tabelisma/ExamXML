@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bikes>
+
+    <mountainbike>
+        <trinx>
+            <trinxM100>
+                </Groupset>
+                    <Shimano>
+                        <Brakeset>
+                            <XTR></XTR>
+                            <DeoreXt></DeoreXt>
+                            <Slx></Slx>
+                            <Deore></Deore>
+                            </Alivio></Alivio>
+                            <Tourney></Tourney>
+                        <Brakeset>
+                        <Crank>
+                            <XTR></XTR>
+                        </Crank>               
+                    </Shimano>          
+                </Groupset>
+            </trinxM100>
+        </trinx>
+
+    </mountainbike>
+    <roadbike> </roadbike>
+    <bmx> </bmx>
+    <fixie> </fixie>
+    <bmx> </bmx>
+    <fatbike></fatbike>
+    <mamachari></mamachari>
+    
+
+</bikes>
