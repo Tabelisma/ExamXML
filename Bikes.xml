@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bikes>
-    <mountain_bike>
+    <Mountain_bike>
         <trek>
             <trek_marlin_8>
                 </Groupset>
@@ -30,8 +30,8 @@
                 <Wheel_Set>Bontrager Kove</Wheel_Set>
             </trek_marlin_8>
         </trek>
-    </mountainbike>
-    <roadbike>
+    </Mountainbike>
+    <Roadbike>
         <Bianchi>
             <Bianchi_OltreXr4>
                 </Groupset>
@@ -56,8 +56,8 @@
                 </Groupset>
             </Bianchi_OltreXr4>
         </Bianchi>
-    </roadbike>
-    <bmx>
+    </Roadbike>
+    <Bmx>
         <Mongoose>
             <LEGION_L500>
                 <FRAME>
@@ -76,8 +76,8 @@
                 </Chain>
             </LEGION_L500>
         </Mongoose>
-    </bmx>
-    <fixie>
+    </Bmx>
+    <Fixie>
         <Tsunami>
             <TSUNAMI_SNM100>
                 <Frameset>
@@ -91,8 +91,8 @@
                 </Chain>
             </TSUNAMI_SNM100>
         </Tsunami>
-    </fixie>
-    <fatbike>
+    </Fixie>
+    <Fatbike>
         <Specialized>
             <Specialized_FatBoy>
                 <Frameset>
@@ -138,7 +138,7 @@
                 </Brakeset>
             </Specialized_FatBoy>
         </Specialized>
-    </fatbike>
+    </Fatbike>
     <Gravel_Bikes>
         <Specialized>
             <Diverge_Base_Carbon>
