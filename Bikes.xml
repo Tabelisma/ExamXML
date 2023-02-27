@@ -1,34 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bikes>
-
-    <mountainbike>
-        <trinx>
-            <trinxM100>
+    <mountain_bike>
+        <trek>
+            <trek_marlin_8>
                 </Groupset>
                     <Shimano>
                         <Brakeset>
-                            <XTR></XTR>
-                            <DeoreXt></DeoreXt>
-                            <Slx></Slx>
-                            <Deore></Deore>
-                            </Alivio></Alivio>
-                            <Tourney></Tourney>
+                            <XTR>M91000 Series</XTR>
+                            <Saint>SAINT M820 Series</Saint>
+                            <DeoreXt>DEORE XT M8100 Series</DeoreXt>
+                            <Slx>SLX M7100 Series</Slx>
+                            <Deore>DEORE M6100 Series</Deore>
+                            </Shimano_Non_Series>Shimano_MT200</Shimano_Non_Series>
                         <Brakeset>
                         <Crank>
-                            <XTR></XTR>
-                        </Crank>               
+                            <XTR>M91000 Series</XTR>
+                            <DeoreXt>DEORE XT M8100 Series</DeoreXt>
+                            <Slx>SLX M7100 Series</Slx>
+                            <Deore>DEORE M6100 Series</Deore>
+                            <Alivio>SHIMANO ALIVIO M4000 Series</Alivio>
+                            <Altus>ALTUS M370 Series</Altus>
+                            <Acera>ACERA M3000 Series</Acera>
+                        </Crank>            
                     </Shimano>          
                 </Groupset>
-            </trinxM100>
-        </trinx>
-
+                <Fork>
+                    <RockShox>RockShox Judy Silver</RockShox>
+                </Fork>
+                <Wheel_Set>Bontrager Kove</Wheel_Set>
+            </trek_marlin_8>
+        </trek>
     </mountainbike>
-    <roadbike> </roadbike>
-    <bmx> </bmx>
-    <fixie> </fixie>
-    <bmx> </bmx>
-    <fatbike></fatbike>
-    <mamachari></mamachari>
+    <roadbike>
+        <Bianchi>
+            <Bianchi_OltreXr4>
+                </Groupset>
+                    <Shimano>
+                        <Brakeset>
+                            <Dura_Ace>DURA-ACE R9200 Series</Dura_Ace>
+                            <Ultegra>ULTEGRA R8100 Series</Ultegra>
+                            <105>SHIMANO 105 R7100 Di2 Series</105>
+                            <Tiagra>TIAGRA 4700 Series</Tiagra>
+                            <Sora>SORA 3500 Series</Sora>
+                            <Claris>CLARIS R2000 Series</Claris>
+                        <Brakeset>
+                        <Crank>
+                            <Dura_Ace>DURA-ACE R9200 Series</Dura_Ace>
+                            <Ultegra>ULTEGRA R8100 Series</Ultegra>
+                            <105>SHIMANO 105 R7100 Di2 Series</105>
+                            <Tiagra>TIAGRA 4700 Series</Tiagra>
+                            <Sora>SORA 3500 Series</Sora>
+                            <Claris>CLARIS R2000 Series</Claris>
+                        </Crank>            
+                    </Shimano>          
+                </Groupset>
+            </Bianchi_OltreXr4>
+        </Bianchi>
+    </roadbike>
+    <bmx>
+        <Mongoose>
+            <LEGION_L500>
+                <FRAME>
+                    <Mongoose_full_4130_Chromoly>tapered headtube, removable brake mounts, and mid BB shell.</Mongoose_full_4130_Chromoly>
+                </FRAME>
+                <Breaks>
+                    <Dia-Compe>Dia-Compe 990</Dia-Compe>
+                </Breaks>
+                <Chain>
+                    <KMC>
+                        <HL1>
+                            <HL1_Wide>Half link Series</HL1_Wide>
+                            <Size>1/2"x1/8" | Compatibility : All single speed drivetrains</Size>
+                        </HL1>
+                    </KMC>
+                </Chain>
+            </LEGION_L500>
+        </Mongoose>
+    </bmx>
+    <fixie>
+        <Tsunami>
+            <TSUNAMI_SNM100>
+                <Frameset>
+                    <tsunami_SNM100>TSUNAMI SNM100, Aluminium 6061, Matte</tsunami_SNM100>
+                </Frameset>
+                <Wheel_Set>
+                    <Weapon>WEAPON Track pro 30 mm alloy double-wall rim, 700c (17T Fixed cog).</Weapon>
+                </Wheel_Set>
+                <Chain>
+                    <KMC>Single speed,1/8″.</KMC>
+                </Chain>
+            </TSUNAMI_SNM100>
+        </Tsunami>
+    </fixie>
+    <fatbike>
+        <Specialized>
+            <Specialized_FatBoy>
+                <Frameset>
+                    <Specialized>
+                        <Specialized_M5_Aluminum>fully butted w/ Smooth Welds, tapered head tube and seat tube, forged post-mount 160mm disc dropouts, internal routing, forged bottom bracket shell, 197x12mm rear thru-axle</Specialized_M5_Aluminum>
+                    <Specialized>
+                </Frameset>
+                <Cockpit>
+                    <Handlebars>
+                        <Stout_Riser> double-butted alloy, 9-degree backsweep, 5-degree upsweep, 15mm rise, 750mm width, 31.8mm</Stout_Riser>
+                    </Handlebars>
+                    <Stem>
+                        <Specialized>3D-forged alloy, 4-bolt, 7-degree rise</Specialized>
+                    </Stem>
+                    <Grips>
+                        <Specialized_Sip Grip>half-waffle, S/M: regular thickness, L/XL: XL thickness</Specialized_Sip_Grip>
+                    </Grips>
+                    <Saddle>
+                        <Body_Geometry_Henge Comp> hollow Cr-Mo rails, 143mm</Body_Geometry_Henge_Comp>
+                    </Saddle>
+                    <SeatPost>
+                        <Specialized>forged alloy, 8mm offset, micro-adjust, 30.9mm</Specialized>
+                    </SeatPost>
+                    <Seat_Binder>
+                        <Alloy>bolt-type, 34.9mm</Alloy>
+                    </Seat_Binder>
+                </Cockpit>
+                <Brakeset>
+                    <Sram>
+                        <XX1>Eagle AXS</XX1>
+                        <XX1>Eagle</XX1>
+                        <X01>Eagle AXS</X01>
+                        <X01>Eagle</X01>
+                        <GX>Eagle AXS</GX>
+                        <GX>Eagle</GX>
+                        <NX>Eagle</NX>
+                        <SX>Eagle</SX>
+                        <CODE>Code RSC and Code R</CODE>
+                        <DB>Sram DB</DB>
+                        <G2>G2 RE, G2 Ultimate,  G2 RSC, G2 RS, G2 R</G2>
+                        <LEVEL>Level Ultimate, Level TLM, Level TL, Level T, Level</LEVEL>
+                    </Sram>
+                </Brakeset>
+            </Specialized_FatBoy>
+        </Specialized>
+    </fatbike>
+    <Gravel_Bikes>
+        <Specialized>
+            <Diverge_Base_Carbon>
+                <Frameset>
+                    <Specialized_Diverge_FACT_8r_carbon>Specialized Diverge FACT 8r carbon, Future Shock suspension, threaded BB, internal routing, 12x142mm thru-axle, flat-mount disc</Specialized_Diverge_FACT_8r_carbon>
+                <Frameset>
+                <Wheel_Set>
+                    <Pathfinder>Pathfinder Sport, 700x38mm</Pathfinder>
+                </Wheel_Set>
+                <Cockpit>
+                    <Handlebars>
+                        <Specialized>Specialized Adventure Gear Hover, 103mm drop x 70mm reach x 12º flare</Specialized>
+                    </Handlebars>
+                    <Stem>
+                        <Future_Stem>Future Stem, Comp</Future_Stem>
+                    </Stem>
+                    <Saddle>
+                        <Geometry>Body Geometry Power Sport, steel rails</Geometry>
+                    </Saddle>
+                    <SeatPost>
+                        <Carbon>Carbon, single-bolt, 27.2mm</Carbon>
+                    </SeatPost>
+                </Cockpit>
+                <Drivetrain>
+                    <Rear_Derailleur>SRAM Apex 1, long cage, 11-speed</Rear_Derailleur>
+                    <Crankset>SRAM Apex 1x</Crankset>
+                    <Cassette>Sunrace, 11-speed, alloy spider, 11-42t</Cassette>
+                    <Chainrings>40T, custom-alloy</Chainrings>
+                    <Chain>KMC X11 Extra Lightweight, 11-speed</Chain>
+                </Drivetrain>
+            </Diverge_Base_Carbon>
+        </Specialized>
+    </Gravel_Bikes>
     
-
 </bikes>
