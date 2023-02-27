@@ -3,7 +3,7 @@
     <Mountain_bike>
         <trek>
             <trek_marlin_8>
-                </Groupset>
+                <Groupset>
                     <Shimano>
                         <Brakeset>
                             <XTR>M91000 Series</XTR>
@@ -11,8 +11,8 @@
                             <DeoreXt>DEORE XT M8100 Series</DeoreXt>
                             <Slx>SLX M7100 Series</Slx>
                             <Deore>DEORE M6100 Series</Deore>
-                            </Shimano_Non_Series>Shimano_MT200</Shimano_Non_Series>
-                        <Brakeset>
+                            <Shimano_Non_Series>Shimano_MT200</Shimano_Non_Series>
+                        </Brakeset>
                         <Crank>
                             <XTR>M91000 Series</XTR>
                             <DeoreXt>DEORE XT M8100 Series</DeoreXt>
@@ -30,24 +30,24 @@
                 <Wheel_Set>Bontrager Kove</Wheel_Set>
             </trek_marlin_8>
         </trek>
-    </Mountainbike>
+    </Mountain_bike>
     <Roadbike>
         <Bianchi>
             <Bianchi_OltreXr4>
-                </Groupset>
+                <Groupset>
                     <Shimano>
                         <Brakeset>
                             <Dura_Ace>DURA-ACE R9200 Series</Dura_Ace>
                             <Ultegra>ULTEGRA R8100 Series</Ultegra>
-                            <105>SHIMANO 105 R7100 Di2 Series</105>
+                            <Shimano_105>SHIMANO 105 R7100 Di2 Series</Shimano_105>
                             <Tiagra>TIAGRA 4700 Series</Tiagra>
                             <Sora>SORA 3500 Series</Sora>
                             <Claris>CLARIS R2000 Series</Claris>
-                        <Brakeset>
+                        </Brakeset>
                         <Crank>
                             <Dura_Ace>DURA-ACE R9200 Series</Dura_Ace>
                             <Ultegra>ULTEGRA R8100 Series</Ultegra>
-                            <105>SHIMANO 105 R7100 Di2 Series</105>
+                            <Shimano_105>SHIMANO 105 R7100 Di2 Series</Shimano_105>
                             <Tiagra>TIAGRA 4700 Series</Tiagra>
                             <Sora>SORA 3500 Series</Sora>
                             <Claris>CLARIS R2000 Series</Claris>
@@ -98,7 +98,7 @@
                 <Frameset>
                     <Specialized>
                         <Specialized_M5_Aluminum>fully butted w/ Smooth Welds, tapered head tube and seat tube, forged post-mount 160mm disc dropouts, internal routing, forged bottom bracket shell, 197x12mm rear thru-axle</Specialized_M5_Aluminum>
-                    <Specialized>
+                    </Specialized>
                 </Frameset>
                 <Cockpit>
                     <Handlebars>
@@ -108,10 +108,10 @@
                         <Specialized>3D-forged alloy, 4-bolt, 7-degree rise</Specialized>
                     </Stem>
                     <Grips>
-                        <Specialized_Sip Grip>half-waffle, S/M: regular thickness, L/XL: XL thickness</Specialized_Sip_Grip>
+                        <Specialized_Sip_Grip>half-waffle, S/M: regular thickness, L/XL: XL thickness</Specialized_Sip_Grip>
                     </Grips>
                     <Saddle>
-                        <Body_Geometry_Henge Comp> hollow Cr-Mo rails, 143mm</Body_Geometry_Henge_Comp>
+                        <Body_Geometry_Henge_Comp> hollow Cr-Mo rails, 143mm</Body_Geometry_Henge_Comp>
                     </Saddle>
                     <SeatPost>
                         <Specialized>forged alloy, 8mm offset, micro-adjust, 30.9mm</Specialized>
@@ -144,7 +144,7 @@
             <Diverge_Base_Carbon>
                 <Frameset>
                     <Specialized_Diverge_FACT_8r_carbon>Specialized Diverge FACT 8r carbon, Future Shock suspension, threaded BB, internal routing, 12x142mm thru-axle, flat-mount disc</Specialized_Diverge_FACT_8r_carbon>
-                <Frameset>
+                </Frameset>
                 <Wheel_Set>
                     <Pathfinder>Pathfinder Sport, 700x38mm</Pathfinder>
                 </Wheel_Set>
