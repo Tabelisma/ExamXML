@@ -28,6 +28,20 @@
                     <RockShox>RockShox Judy Silver</RockShox>
                 </Fork>
                 <Wheel_Set>Bontrager Kove</Wheel_Set>
+                <Cockpit>
+                    <Handlebars>
+                        <Bontrager>Bontrager alloy, 31.8mm, 5mm rise, 690mm width</Bontrager>
+                    </Handlebars>
+                    <Stem>
+                        <Bontrager>Bontrager alloy, 31.8mm, Blendr compatible, 7 degree, 35mm length</Bontrager>
+                    </Stem>
+                    <Saddle>
+                        <Bontrager_Arvada>Bontrager Arvada, steel rails, 138mm width</Bontrager_Arvada>
+                    </Saddle>
+                    <SeatPost>
+                        <Bontrager>Bontrager alloy, 31.6mm, 12mm offset, 300mm length</Bontrager>
+                    </SeatPost>
+                </Cockpit>
             </trek_marlin_8>
         </trek>
     </Mountain_bike>
@@ -132,8 +146,8 @@
                         <SX>Eagle</SX>
                         <CODE>Code RSC and Code R</CODE>
                         <DB>Sram DB</DB>
-                        <G2>G2 RE, G2 Ultimate,  G2 RSC, G2 RS, G2 R</G2>
-                        <LEVEL>Level Ultimate, Level TLM, Level TL, Level T, Level</LEVEL>
+                        <G2_Series>G2 RE, G2 Ultimate,  G2 RSC, G2 RS, G2 R</G2_Series>
+                        <LEVEL_Series>Level Ultimate, Level TLM, Level TL, Level T, Level</LEVEL_Series>
                     </Sram>
                 </Brakeset>
             </Specialized_FatBoy>
